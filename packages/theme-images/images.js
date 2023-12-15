@@ -1,5 +1,5 @@
 /**
- * Image Helper Functions
+ * Image Helper Functions Fork for Jordan
  * -----------------------------------------------------------------------------
  * https://github.com/Shopify/slate.git.
  *
